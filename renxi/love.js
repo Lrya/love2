@@ -169,7 +169,7 @@
             ctx.moveTo(0, 0);
             ctx.scale(0.75, 0.75);
             ctx.font = "12px 微软雅黑,Verdana";
-	    ctx.fillText(" [baby窦,点一下]", 23, 10);
+	    ctx.fillText(" [baby窦点开]", 23, 10);
             ctx.restore();
         },
         clear: function() {
